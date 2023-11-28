@@ -1,0 +1,16 @@
+:root {
+  font-family: normal normal bold 16px/21px Mulish;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #00950a;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Default styles for all resolutions */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
